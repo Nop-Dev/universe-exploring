@@ -80,7 +80,7 @@ h1 {
 
 /* Home */
 div#hcontent {
-    margin: 10vw auto;
+    margin: 20vh auto;
     width: 600px;
     text-align: center;
 }
@@ -97,4 +97,16 @@ button:hover {
     color: black;
     font-weight: 700;
     background-color: rgba(255, 255, 255, 0.562);
+}
+
+/* Other pages config */
+div.content {
+    margin: 14vh auto;
+    margin-left: 100px;
+    width: 600px;
+}
+
+p {
+    margin-top: 1.4rem;
+    font-size: 1.8rem;
 }
