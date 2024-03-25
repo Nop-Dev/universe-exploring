@@ -67,3 +67,34 @@ img#bg {
 
     z-index: -1;
 }
+
+/* Global Pages Config */
+div#app, button {
+    color: #E1E1E6;
+    padding: auto;
+}
+
+h1 {
+    font-size: 4.8rem;
+}
+
+/* Home */
+div#hcontent {
+    margin: 10vw auto;
+    width: 600px;
+    text-align: center;
+}
+
+button {
+    margin-top: 2.4rem;
+    padding: 1.2rem 3rem;
+    background-color: rgba(255, 255, 255, 0);
+    border: 1px solid white;
+    border-radius: 5px;
+}
+
+button:hover {
+    color: black;
+    font-weight: 700;
+    background-color: rgba(255, 255, 255, 0.562);
+}
